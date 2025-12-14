@@ -26,7 +26,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-'''
+```
 urls.py
 from django.contrib import admin
 from django.urls import path
@@ -81,7 +81,7 @@ web.html
     </center>
 </body>
 </html>
-'''
+```
 
 
 ## SERVER SIDE PROCESSING:
